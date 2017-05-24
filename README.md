@@ -1,2 +1,6 @@
 # Workdoc
-write down prefer than memory
+要开始写学习记录了
+
+接下来要好好学习机器学习，推荐系统，自然语言处理相关的东西。
+
+写完得回顾，不然真的是没用
